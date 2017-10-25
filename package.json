@@ -1,0 +1,12 @@
+{
+  "name": "bcrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vqthanh1412489/bcrypt.git",
+  "author": "vqthanh1412489 <vqthanh1412489@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "express": "^4.16.2"
+  }
+}
